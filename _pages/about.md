@@ -15,7 +15,7 @@ Before my Ph.D. study, I received my B.Sc. degree in electronic information scie
 Publications
 ======
 
-* **Jingyi Zhang**, Jiaxing Huang, Xueying Jiang, Shijian Lu. "Black-box Unsupervised Domain Adaptation with Bi-directional Atkinson-Shiffrin Memory." ICCV 2023.
+* **Jingyi Zhang**, Jiaxing Huang, Xueying Jiang, Shijian Lu. "Black-box Unsupervised Domain Adaptation with Bi-directional Atkinson-Shiffrin Memory." ICCV 2023. [[Paper](https://arxiv.org/abs/2308.13236)]
 * Jiaxing Huang, **Jingyi Zhang**, Han Qiu, Sheng Jin, Shijian Lu. "Prompt Ensemble Self-training for Open-Vocabulary Domain Adaptation." arXiv 2023. [[Paper](https://arxiv.org/pdf/2306.16658.pdf)]
 * **Jingyi Zhang**, Jiaxing Huang, Sheng Jin, Shijian Lu. "Vision-Language Models for Vision Tasks: A Survey." arXiv 2023. [[Paper](https://arxiv.org/pdf/2304.00685)] [[Project](https://github.com/jingyi0000/VLM_survey)]
 * **Jingyi Zhang**, Jiaxing Huang, Zhipeng Luo, Gongjie Zhang, Xiaoqin Zhang, Shijian Lu. "DA-DETR: Domain Adaptive Detection Transformer with Information Fusion." CVPR 2023. [[Paper](http://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_DA-DETR_Domain_Adaptive_Detection_Transformer_With_Information_Fusion_CVPR_2023_paper.pdf)]
