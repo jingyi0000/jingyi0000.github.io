@@ -16,7 +16,7 @@ News🔥
 - 2024.09: Two papers are accepted by **NeurIPS 2024**!
 
 
-Publications
+Publications📝
 ======
 ### 2024
   
