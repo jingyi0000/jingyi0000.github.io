@@ -7,13 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student at [Nanyang Technological University](https://www.ntu.edu.sg/), under the supervision of [Prof. Lu Shijian](https://personal.ntu.edu.sg/shijian.lu/index.htm). My research interests include computer vision and unsupervised learning. 
+I am a Ph.D. student at [Nanyang Technological University](https://www.ntu.edu.sg/), under the supervision of [Prof. Lu Shijian](https://personal.ntu.edu.sg/shijian.lu/index.htm). My research focuses on computer vision and machine learning, particularly in areas of transfer learning and multi‐modal learning such as unsupervised domain adaptation and vision‐language models.
 
 Before my Ph.D. study, I received my B.Sc. degree in electronic information science and technology from the University of Electronic Science and Technology of China (UESTC) and M.Sc. degree in signal processing from the Nanyang Technological University (NTU).
+
+News🔥
+======
+- 2024.09: Two papers are accepted by **NeurIPS 2024**!
 
 
 Publications
 ======
+* **Jingyi Zhang**, Jiaxing Huang, Xiaoqin Zhang, Ling Shao, Shijian Lu. "Historical Test-time Prompt Tuning for Vision Foundation Models." NeurIPS 2024.
+* Jiaxing Huang, **Jingyi Zhang**, Kai Jiang, Shijian Lu. "Language Hierarchical Self-training for Detecting Twenty-thousand Classes using Image-level Supervision." NeurIPS 2024.
 * Jiaxing Huang, Kai Jiang, **Jingyi Zhang**, Han Qiu, Lewei Lu, Shijian Lu, Eric Xing. "Learning to Prompt Segment Anything Models." arXiv 2024. [[Paper](https://arxiv.org/abs/2401.04651)]
 * Jiaxing Huang, **Jingyi Zhang**, Kai Jiang, Han Qiu, Shijian Lu. "Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey." arXiv 2023. [[Paper](https://arxiv.org/abs/2312.16602)][[Project](https://github.com/jingyi0000/Awesome-Visual-Instruction-Tuning)]
 * **Jingyi Zhang**, Jiaxing Huang, Sheng Jin, Shijian Lu. "Vision-Language Models for Vision Tasks: A Survey." TPAMI. [[Paper](https://arxiv.org/pdf/2304.00685)] [[Project](https://github.com/jingyi0000/VLM_survey)]
