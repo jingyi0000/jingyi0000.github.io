@@ -158,6 +158,22 @@ Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Zichen Tian, **Jingyi Zhang**, Shijian 
 </div>
 </div>
 
+## 2022
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/suda.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spectral Unsupervised Domain Adaptation for Visual Recognition](http://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spectral_Unsupervised_Domain_Adaptation_for_Visual_Recognition_CVPR_2022_paper.pdf)
+
+**Jingyi Zhang**, Jiaxing Huang, Zichen Tian, Shijian Lu
+
+*CVPR 2022*
+
+*[Paper](http://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spectral_Unsupervised_Domain_Adaptation_for_Visual_Recognition_CVPR_2022_paper.pdf)* / *[Code](https://drive.google.com/file/d/1QGL_O_ZLmZ8z1TBxm8IBOmAy6CLKZxAq/view?usp=sharing)*
+</div>
+</div>
+
+
 
 # 📖 Educations
 - *2022.01 - 2025.06(now)*, Doctor of Philosophy, College of Computing and Data Science, Nanyang Technological University (NTU). 
