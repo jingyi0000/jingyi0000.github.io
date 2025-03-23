@@ -137,7 +137,7 @@ Jiaxing Huang, Kai Jiang, **Jingyi Zhang**, Han Qiu, Lewei Lu, Shijian Lu, Eric 
 
 [DA-DETR: Domain Adaptive Detection Transformer with Information Fusion](http://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_DA-DETR_Domain_Adaptive_Detection_Transformer_With_Information_Fusion_CVPR_2023_paper.pdf)
 
-**Jingyi Zhang**, Jiaxing Huang, Xiaoqin Zhang, Shijian Lu
+**Jingyi Zhang**, Jiaxing Huang, Zhipeng Luo, Gongjie Zhang, Xiaoqin Zhang, Shijian Lu
 
 *CVPR 2023*
 
