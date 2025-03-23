@@ -23,16 +23,83 @@ Before my Ph.D. study, I received my B.Sc. degree in electronic information scie
 
 ## 2025
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/stepgrpo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/stepgrpo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization](https://arxiv.org/pdf/2503.12937)
 
 **Jingyi Zhang**, Jiaxing Huang, Huanjin Yao, Shunyu Liu, Xikun Zhang, Shijian Lu, Dacheng Tao
 
-*Arxiv 2025*
+*Arxiv*
 
 *[Paper](https://arxiv.org/pdf/2503.12937)* / *[Code](https://github.com/jingyi0000/R1-VL)*
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/mulberry.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search](https://arxiv.org/abs/2412.18319)
+
+Huanjin Yao, Jiaxing Huang, Wenhao Wu, **Jingyi Zhang**, Yibo Wang, Shunyu Liu, Yingjie Wang, Yuxin Song, Haocheng Feng, Li Shen, Dacheng Tao
+
+*Arxiv*
+
+*[Paper](https://arxiv.org/abs/2412.18319)* / *[Code](https://github.com/HJYao00/Mulberry)*
+</div>
+</div>
+
+## 2024
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/histpt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Historical Test-time Prompt Tuning for Vision Foundation Models](https://arxiv.org/pdf/2410.20346)
+
+**Jingyi Zhang**, Jiaxing Huang, Xiaoqin Zhang, Ling Shao, Shijian Lu
+
+*NeurIPS 2024*
+
+*[Paper](https://arxiv.org/pdf/2410.20346)* / *[Code](https://github.com/jingyi0000/HisTPT)*
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/language.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Open-Vocabulary Object Detection via Language Hierarchy](https://arxiv.org/pdf/2410.20371)
+
+Jiaxing Huang, **Jingyi Zhang**, Kai Jiang, Shijian Lu
+
+*NeurIPS 2024*
+
+*[Paper](https://arxiv.org/pdf/2410.20371)* 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/vlm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Vision-Language Models for Vision Tasks: A Survey](https://arxiv.org/pdf/2304.00685)
+
+**Jingyi Zhang**, Jiaxing Huang, Sheng Jin, Shijian Lu
+
+*NeurIPS 2024*
+
+*[Paper](https://arxiv.org/pdf/2304.00685)* / *[Project](https://github.com/jingyi0000/VLM_survey)*
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/sam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning to Prompt Segment Anything Models](https://arxiv.org/pdf/2410.20371)
+
+Jiaxing Huang, Kai Jiang, **Jingyi Zhang**, Han Qiu, Lewei Lu, Shijian Lu, Eric Xing
+
+*Arxiv*
+
+*[Paper](https://arxiv.org/abs/2401.04651)* 
 </div>
 </div>
 
