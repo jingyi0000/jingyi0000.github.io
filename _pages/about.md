@@ -109,3 +109,9 @@ Jiaxing Huang, Kai Jiang, **Jingyi Zhang**, Han Qiu, Lewei Lu, Shijian Lu, Eric 
 - *2019.07 - 2020.06*, Master of Science, School of Electrical and Electronic Engineering, Nanyang Technological University (NTU). 
 - *2015.09 - 2019.06*,  Bachelor of Science, School of Electronic Information Science and Technology, University of Electronic Science and Technology of China (UESTC).
 
+# 💻 Service
+
+**Conference reviewer:** NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, AAAI, BMCV, WACV
+
+**Journal Reviewer:** TPAMI, IJCV, TCSVT, TMM, TETCI, Nerual Networks
+
