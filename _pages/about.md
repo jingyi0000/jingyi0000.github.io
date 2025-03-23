@@ -33,6 +33,8 @@ Before my Ph.D. study, I received my B.Sc. degree in electronic information scie
 *Arxiv 2025*
 
 *[Paper](https://arxiv.org/pdf/2503.12937)* / *[Code](https://github.com/jingyi0000/R1-VL)*
+</div>
+</div>
 
 
 # 📖 Educations
