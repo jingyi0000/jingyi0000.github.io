@@ -84,7 +84,7 @@ Jiaxing Huang, **Jingyi Zhang**, Kai Jiang, Shijian Lu
 
 **Jingyi Zhang**, Jiaxing Huang, Sheng Jin, Shijian Lu
 
-*NeurIPS 2024*
+*TPAMI 2024 (Top 50 popular paper)*
 
 *[Paper](https://arxiv.org/pdf/2304.00685)* / *[Project](https://github.com/jingyi0000/VLM_survey)*
 </div>
