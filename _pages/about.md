@@ -121,7 +121,7 @@ Jiaxing Huang, Kai Jiang, **Jingyi Zhang**, Han Qiu, Lewei Lu, Shijian Lu, Eric 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/unidaformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[UniDAformer: Unified Domain Adaptive Panoptic Segmentation Transformer via Hierarchical Mask Calibration](http://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_UniDAformer_Unified_Domain_Adaptive_Panoptic_Segmentation_Transformer_via_Hierarchical_Mask_CVPR_2023_paper.pdf))
+[UniDAformer: Unified Domain Adaptive Panoptic Segmentation Transformer via Hierarchical Mask Calibration](http://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_UniDAformer_Unified_Domain_Adaptive_Panoptic_Segmentation_Transformer_via_Hierarchical_Mask_CVPR_2023_paper.pdf)
 
 **Jingyi Zhang**, Jiaxing Huang, Xiaoqin Zhang, Shijian Lu
 
