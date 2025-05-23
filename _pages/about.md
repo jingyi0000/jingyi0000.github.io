@@ -23,6 +23,19 @@ Before my Ph.D. study, I received my B.Sc. degree in electronic information scie
 
 ## 2025
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/share-r1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO](https://arxiv.org/pdf/2505.16673v1)
+
+Huanjin Yao, Qixiang Yin, **Jingyi Zhang**, Min Yang, Yibo Wang, Wenhao Wu, Fei Su, Li Shen, Minghui Qiu, Dacheng Tao, Jiaxing Huang
+
+*Arxiv*
+
+*[Paper](https://arxiv.org/pdf/2505.16673v1)* / *[Code](https://github.com/HJYao00/R1-ShareVL)*
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/stepgrpo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
