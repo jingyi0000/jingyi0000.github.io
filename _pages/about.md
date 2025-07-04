@@ -37,6 +37,20 @@ Before my Ph.D. study, I received my B.Sc. degree in electronic information scie
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/mmreason.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MMReason: An Open-Ended Multi-Modal Multi-Step Reasoning Benchmark for MLLMs Toward AGI](https://arxiv.org/pdf/2506.23563)
+
+Huanjin Yao, Jiaxing Huang, Yawen Qiu, Michael K Chen, Wenzheng Liu, Wei Zhang, Wenjie Zeng, Xikun Zhang, **Jingyi Zhang**, Yuxin Song, Wenhao Wu, Dacheng Tao
+
+*ICCV 2025*
+
+*[Paper](https://arxiv.org/pdf/2506.23563)* / *[Code](https://github.com/HJYao00/MMReason)*
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/share-r1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
