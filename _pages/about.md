@@ -17,12 +17,27 @@ Before my Ph.D. study, I received my B.Sc. degree in electronic information scie
 
 
 # 🔥 News
+- **2025.08**: Our survey paper on [_Visual Instruction Tuning_](https://arxiv.org/pdf/2312.16602) is accpected by **IJCV**!
 - **2025.06**: Two papers are accepted by **ICCV 2025**!
 - **2024.09**: Two papers are accepted by **NeurIPS 2024**!
 
 # 📝 Publications 
 
 ## 2025
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/vit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey](https://arxiv.org/pdf/2312.16602)
+
+Jiaxing Huang, **Jingyi Zhang**, Kai Jiang, Han Qiu, Shijian Lu
+
+*IJCV 2025*
+
+*[Paper](https://arxiv.org/pdf/2312.16602)*
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/stepgrpo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
