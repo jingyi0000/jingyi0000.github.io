@@ -222,7 +222,7 @@ Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Zichen Tian, **Jingyi Zhang**, Shijian 
 
 
 # 📖 Educations
-- *2022.01 - 2025.06*, Doctor of Philosophy, College of Computing and Data Science, Nanyang Technological University (NTU). 
+- *2022.01 - 2025.08*, Doctor of Philosophy, College of Computing and Data Science, Nanyang Technological University (NTU). 
 - *2019.07 - 2020.06*, Master of Science, School of Electrical and Electronic Engineering, Nanyang Technological University (NTU). 
 - *2015.09 - 2019.06*,  Bachelor of Science, School of Electronic Information Science and Technology, University of Electronic Science and Technology of China (UESTC).
 
