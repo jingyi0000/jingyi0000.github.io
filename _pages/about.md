@@ -17,6 +17,7 @@ Before my Ph.D. study, I received my B.Sc. degree in electronic information scie
 
 
 # 🔥 News
+- **2025.09**: Our papers [Mulberry](https://arxiv.org/abs/2412.18319) and [R1-ShareVL](https://arxiv.org/pdf/2505.16673v1) are accepted by **NeurIPS 2025**! [Mulberry](https://arxiv.org/abs/2412.18319) is selected as a **Spotlight** paper! 🎉 
 - **2025.08**: Our survey paper on [_Visual Instruction Tuning_](https://arxiv.org/pdf/2312.16602) is accpected by **IJCV**!
 - **2025.06**: Two papers are accepted by **ICCV 2025**!
 - **2024.09**: Two papers are accepted by **NeurIPS 2024**!
@@ -24,6 +25,33 @@ Before my Ph.D. study, I received my B.Sc. degree in electronic information scie
 # 📝 Publications 
 
 ## 2025
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Spotlight)</div><img src='images/mulberry.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search](https://arxiv.org/abs/2412.18319)
+
+Huanjin Yao, Jiaxing Huang, Wenhao Wu, **Jingyi Zhang**, Yibo Wang, Shunyu Liu, Yingjie Wang, Yuxin Song, Haocheng Feng, Li Shen, Dacheng Tao
+
+*NeurIPS 2025 (Spotlight)*
+
+*[Paper](https://arxiv.org/abs/2412.18319)* / *[Code](https://github.com/HJYao00/Mulberry)*
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/share-r1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO](https://arxiv.org/pdf/2505.16673v1)
+
+Huanjin Yao, Qixiang Yin, **Jingyi Zhang**, Min Yang, Yibo Wang, Wenhao Wu, Fei Su, Li Shen, Minghui Qiu, Dacheng Tao, Jiaxing Huang
+
+*NeurIPS 2025*
+
+*[Paper](https://arxiv.org/pdf/2505.16673v1)* / *[Code](https://github.com/HJYao00/R1-ShareVL)*
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/vit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -66,31 +94,6 @@ Huanjin Yao, Jiaxing Huang, Yawen Qiu, Michael K Chen, Wenzheng Liu, Wei Zhang, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/share-r1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO](https://arxiv.org/pdf/2505.16673v1)
-
-Huanjin Yao, Qixiang Yin, **Jingyi Zhang**, Min Yang, Yibo Wang, Wenhao Wu, Fei Su, Li Shen, Minghui Qiu, Dacheng Tao, Jiaxing Huang
-
-*Arxiv*
-
-*[Paper](https://arxiv.org/pdf/2505.16673v1)* / *[Code](https://github.com/HJYao00/R1-ShareVL)*
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/mulberry.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search](https://arxiv.org/abs/2412.18319)
-
-Huanjin Yao, Jiaxing Huang, Wenhao Wu, **Jingyi Zhang**, Yibo Wang, Shunyu Liu, Yingjie Wang, Yuxin Song, Haocheng Feng, Li Shen, Dacheng Tao
-
-*Arxiv*
-
-*[Paper](https://arxiv.org/abs/2412.18319)* / *[Code](https://github.com/HJYao00/Mulberry)*
-</div>
-</div>
 
 ## 2024
 
