@@ -17,7 +17,7 @@ Before my Ph.D. study, I received my B.Sc. degree in electronic information scie
 
 
 # 🔥 News
-- **2025.09**: Our papers [Mulberry](https://arxiv.org/abs/2412.18319) and [R1-ShareVL](https://arxiv.org/pdf/2505.16673v1) are accepted by **NeurIPS 2025**! [Mulberry](https://arxiv.org/abs/2412.18319) is selected as a **Spotlight** paper! 🎉 
+- **2025.09**: Our papers [Mulberry](https://arxiv.org/abs/2412.18319) and [R1-ShareVL](https://arxiv.org/pdf/2505.16673v1) are accepted by **NeurIPS 2025**! [Mulberry](https://arxiv.org/abs/2412.18319) is selected as a **Spotlight**! 🎉 
 - **2025.08**: Our survey paper on [_Visual Instruction Tuning_](https://arxiv.org/pdf/2312.16602) is accpected by **IJCV**!
 - **2025.06**: Two papers are accepted by **ICCV 2025**!
 - **2024.09**: Two papers are accepted by **NeurIPS 2024**!
