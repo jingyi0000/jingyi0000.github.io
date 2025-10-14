@@ -17,6 +17,7 @@ Before my Ph.D. study, I received my B.Sc. degree in electronic information scie
 
 
 # 🔥 News
+- **2025.10**: Our new survey paper on [agentic MLLMs](https://arxiv.org/pdf/2510.10991) is released!  
 - **2025.09**: Our papers [Mulberry](https://arxiv.org/abs/2412.18319) and [R1-ShareVL](https://arxiv.org/pdf/2505.16673v1) are accepted by **NeurIPS 2025**! [Mulberry](https://arxiv.org/abs/2412.18319) is selected as a **Spotlight**! 🎉 
 - **2025.08**: Our survey paper on [_Visual Instruction Tuning_](https://arxiv.org/pdf/2312.16602) is accpected by **IJCV**!
 - **2025.06**: Two papers are accepted by **ICCV 2025**!
@@ -25,6 +26,19 @@ Before my Ph.D. study, I received my B.Sc. degree in electronic information scie
 # 📝 Publications 
 
 ## 2025
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/agenticMLLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Survey on Agentic Multimodal Large Language Models](https://arxiv.org/pdf/2510.10991)
+
+Huanjin Yao, Ruifei Zhang, Jiaxing Huang, **Jingyi Zhang**, Yibo Wang, Bo Fang, Ruolin Zhu, Yongcheng Jing, Shunyu Liu, Guanbin Li, Dacheng Tao
+
+*arXiv 2025*
+
+*[Paper](https://arxiv.org/pdf/2510.10991)* / *[Project](https://github.com/HJYao00/Awesome-Agentic-MLLMs)*
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Spotlight)</div><img src='images/mulberry.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
