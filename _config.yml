@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhang Jingyi"
-description              : "PhD, College of Computing and Data Science, Nanyang Technological University."
+description              : "Postdoc @ Yale University"
 repository               : "jingyi0000/jingyi0000.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhang Jingyi"
   avatar           : "images/zjy_profile.png"
-  bio              : "NTU"
-  location         : "Singapore"
+  bio              : 
+  location         : "United States"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1qu-Y7sAAAAJ&hl=en"
