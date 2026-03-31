@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. degree from [Nanyang Technological University](https://www.ntu.edu.sg/), under the supervision of [Prof. Lu Shijian](https://personal.ntu.edu.sg/shijian.lu/index.htm). My research focuses on computer vision and machine learning, particularly in areas of transfer learning and multi‐modal learning such as unsupervised domain adaptation and vision‐language models.
+I am a postdoctoral researcher in the [Clinical NLP Lab](https://clinicalnlp.org/) at Yale University, working with [Prof. Xu Hua](https://medicine.yale.edu/profile/hua-xu/). I received my Ph.D. degree from [Nanyang Technological University](https://www.ntu.edu.sg/), under the supervision of [Prof. Lu Shijian](https://personal.ntu.edu.sg/shijian.lu/index.htm). My research focuses on computer vision and machine learning, particularly in areas of transfer learning and multi‐modal learning such as unsupervised domain adaptation and vision‐language models.
 
 Before my Ph.D. study, I received my B.Sc. degree in electronic information science and technology from the University of Electronic Science and Technology of China (UESTC) and M.Sc. degree in signal processing from the Nanyang Technological University (NTU). 
 
