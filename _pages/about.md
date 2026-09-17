@@ -17,6 +17,7 @@ Before my Ph.D. study, I received my B.Sc. degree in electronic information scie
 
 
 # 🔥 News
+- **2026.09**: Invited to serve as an Area Chair for **ICLR 2027**!
 - **2026.06**: Our paper [MobileSAM2](*) is accepted by **ECCV 2026**! 
 - **2026.04**: Our papers [R1-SyntheticVL](https://arxiv.org/pdf/2602.03300) and [MM-DeepResearch](https://arxiv.org/pdf/2603.01050) are accepted by **ICML 2026**!
 - **2025.10**: Our new survey paper on [agentic MLLMs](https://arxiv.org/pdf/2510.10991) is released!  
